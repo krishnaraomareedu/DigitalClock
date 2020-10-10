@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1602252101 source:c:\users\saipk\desktop\digitalclock\main.c
+	<stdio.h>
+	<stdlib.h>
+	"digitalclock.h"
+
+1602251829 c:\users\saipk\desktop\digitalclock\inc\digitalclock.h
+
+1602253480 source:c:\users\saipk\desktop\digitalclock\test\test_digitalclock.c
+	"unity.h"
+	"digitalclock.h"
+
+1602252337 c:\users\saipk\desktop\digitalclock\unity\unity.h
+	"unity_internals.h"
+
+1602252337 c:\users\saipk\desktop\digitalclock\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1602252337 source:c:\users\saipk\desktop\digitalclock\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
